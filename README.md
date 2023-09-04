@@ -1,5 +1,5 @@
 # Mit Kubeflow und Evidently Modell-Endpunkte erstellen und überwachen
-Code aus dem zweiten Teil des Kubeflow-Tutorials von Pavol Bauer, erschienen in der [Ausgabe 09/2023](https://www.heise.de/select/ix/2023/9/2315907591704974604) des [iX-Magazins](https://www.heise.de/select/ix/2023/9/).
+Code aus dem zweiten Teil des Kubeflow-Tutorials von Pavol Bauer, erschienen auf [heise+](https://heise.de/-9240128) und in [Ausgabe 09/2023](https://www.heise.de/select/ix/2023/9/2315907591704974604) des [iX-Magazins](https://www.heise.de/select/ix/2023/9/).
 
 # iX-tract
 - Mit Kserve lassen sich APIs und Endpunkte für Modelle in Kubeflow-Pipelines bereitstellen. Diese empfangen Eingabedaten und geben Vorhersagen der bereitgestellten Modelle an die Anwender zurück.
